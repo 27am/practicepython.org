@@ -4,6 +4,9 @@ Create a program that asks the user for a number and then prints out a list of a
  For example, 13 is a divisor of 26 because 26 / 13 has no remainder.)
 """
 
+__author__ = "27am"
+
+
 def main():
 	a = int(input("Insert a number\n"))
 
